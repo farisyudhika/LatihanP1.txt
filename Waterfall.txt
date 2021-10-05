@@ -1,0 +1,2 @@
+Pengertian Waterfall:
+-Metode Waterfall merupakan pendekatan SDLC paling awal yang digunakan untuk pengembangan perangkat lunak.
