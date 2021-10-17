@@ -1,3 +1,9 @@
 Pengertian Branch:
 -Branch adalah bifurkasi dari kondisi kode yang membuat alur baru bagi evolusinya. 
 Langkah-langkah Penambahan Branch:
+- Memilih terebih dahulu repository yang ingin kita tambah branch
+- Klik Icon tambah file 
+- lalu masukkan nama file yang di inginkan
+- setelah itu di paling bawah kita pilih create new branch
+- input nama branch yang di inginkan
+- lalu klik create nwe branch
